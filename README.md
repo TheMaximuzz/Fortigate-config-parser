@@ -46,4 +46,5 @@ next
 CORP_SERVERS:
     IP:
     example.com
+    DNS:
     10.0.0.10/32
