@@ -43,8 +43,10 @@ edit "SRV-WEB-01"
 next
 ```
 ### Полученые данные:
+```text
 CORP_SERVERS:
     IP:
-    example.com
-    DNS:
     10.0.0.10/32
+    DNS:
+    example.com
+    
